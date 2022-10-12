@@ -2,9 +2,9 @@ Deze repo is onderdeel van het vak informatica op het Emmauscollege Rotterdam.
 
 [Meer info over deze opdracht](https://informatica.emmauscollege.nl/)
 
-## *zet hier de titel van je website*
+## *Edelstenen*
 
-*zet hier een korte beschrijving van de informatie die je kunt vinden op je website*
+*Je kan hier lezen waarvoor je de edelstenen kunt gebruiken.*
 
 ## Planning
 Werk de planning af van boven naar beneden<br>
