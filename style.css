@@ -9,8 +9,8 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #000000;    /* achtergrondkleur lichtgrijs */
-  color: #6d27a3;               /* tekstkleur donkergrijs */
+  background-color: #FFF8DC;    /* achtergrondkleur lichtgrijs */
+  color: #a96800;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -40,6 +40,7 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 
 p {
   margin: 10px 0px;
+  outline: 2px solid;
   text-align: justify;            /* tekst links en rechts uitvullen */
 }
 
@@ -61,16 +62,17 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: #ffffff;
+      color: #a96800;
 }
 
 .smalltext {
+    color: #000000;
     text-align: center;
-    font-size: 0.7em;
+    font-size: 0.7em
 }
 
 a {
-    color: white;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -84,7 +86,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #6d27a3;
+    background-color: #a96800;
     overflow: hidden;
 }
 
@@ -101,7 +103,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #b18cfe;
+    background-color: #D2B48C;
 }
 
 nav li a.active {
@@ -109,6 +111,6 @@ nav li a.active {
 }
 
 h1 {
-  color: white; 
-  text-shadow: 0 0 50px #ffffff, 0 0 30px darkblue, 0 0 40px #6827b1  ;
+  color: #000000; 
+  text-shadow: 3px 3px 5px #a96800;
 }
