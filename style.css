@@ -45,14 +45,19 @@ p {
   padding: 5px;
   text-align: justify;            /* tekst links en rechts uitvullen */
 }
-
 /* Indeling voor hoofd pagina */
 
 .kolomLinks {
   float:left;
   width:250px;
-  padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
+  padding:15px;           /* afstand tussen plaatje en rechterkolom */
 }
+
+.iets {
+
+  
+}
+
 .kolomRechts {
   float:left;
   width: 450px;
@@ -73,6 +78,9 @@ h1, h2, h3 {
     font-size: 0.7em
 }
 
+p.smalltext{
+  border: none;
+}
 a {
     color: #000000;
     text-decoration: none;
@@ -115,4 +123,15 @@ nav li a.active {
 h1 {
   color: #000000; 
   text-shadow: 3px 3px 5px #a96800;
+}
+.photoCrystals{
+  float: left;
+  width: 130px;
+  padding: 10px;
+}
+
+.text1{
+  float:right;
+  margin-right:10px;
+  padding: 10px;
 }
